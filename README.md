@@ -6,7 +6,7 @@
 
 Delhi, India · 2+ years of combined DevOps, systems administration, and IT support experience
 
-[LinkedIn](https://www.linkedin.com/in/ritik-kumar-b69680254) · [GitHub](https://github.com/ritikgithub3105) · [Portfolio](https://ritikgithub3105.github.io/myportfolio) · [Email](mailto:ritik315cool@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/ritik-kumar-b69680254) · [GitHub](https://github.com/ritikgithub3105) · [Portfolio](https://ritikgithub3105.github.io/myportfolio) · [Email](mailto:ritik31517@gmail.com)
 
 </div>
 
