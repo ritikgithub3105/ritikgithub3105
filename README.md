@@ -109,7 +109,7 @@ Built a Bash-based utility for virtual machine diagnostics covering CPU usage, m
 
 Interested in collaborating on **AWS infrastructure, DevOps automation, CI/CD, production monitoring, and AI/ML deployment**.
 
-- **Email:** [ritik315cool@gmail.com](mailto:ritik315cool@gmail.com)
+- **Email:** [ritik315cool@gmail.com](mailto:ritik31517@gmail.com)
 - **LinkedIn:** [Ritik Kumar](https://www.linkedin.com/in/ritik-kumar-b69680254)
 - **GitHub:** [ritikgithub3105](https://github.com/ritikgithub3105)
 - **Portfolio:** [ritikgithub3105.github.io/myportfolio](https://ritikgithub3105.github.io/myportfolio)
