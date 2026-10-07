@@ -1,6 +1,6 @@
 <div align="center">
 
-# Ritik Kumar
+# Ritik
 
 ### DevOps Engineer · AWS · Infrastructure Automation · AI/ML Deployment
 
